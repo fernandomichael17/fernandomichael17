@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+My name is Fernando Michael Hebert Siregar<br>. 
+I am an undergraduate informatics engineering student at Gunadarma University <br>. 
+🔭 I’m currently working on Laboratory Informatics Engeering in Gunadarma University.<br>
+I am interested in Data Analytics, Data Engineering, Data Scientist and specialy Machine Learning <br>. 
+I also have a [Google Data Analytics Professional Certificate] (https://coursera.org/share/0a85dac7a8ef98a86e1fcbe7ea02df85) from [Coursera](https://www.coursera.org/)<br>. 
+I also have basic knowledge about Machine Learning from IDCAMP bootcamp program.
 <!--
 **fernandomichael17/fernandomichael17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
